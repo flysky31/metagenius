@@ -5,4 +5,5 @@
 
 반응형 웹사이트.<br>
 퍼블리싱 기여도 100%<br>
-공지사항과 자료실은 게시판 적용으로 실제 웹사이트에서는 그누보드5 게시판을 적용한 사이트입니다.
+공지사항과 자료실은 게시판 적용으로 실제 웹사이트에서는 그누보드5 게시판을 적용한 사이트입니다.<br>
+<a title="https://flysky31.github.io/metagenius" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://flysky31.github.io/metagenius/">flysky31.github.io/metagenius/</a>
