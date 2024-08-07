@@ -90,7 +90,8 @@
                         .sub_menu{
                             position: absolute;
                             top: 135px;
-                            left: -35px;
+                            left: 50%;
+                            transform:translateX(-50%);
                             padding: 15px 10px;
                             background: #4F9EC5;
                             width: 210px;
