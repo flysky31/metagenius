@@ -969,6 +969,9 @@
 }
 #contact_deps02 .formbox form .agree_box .ag_txt span {
   word-break: inherit !important;
+    height:200px;
+  overflow-y:scroll;
+  display:block;
 }
 #contact_deps02 .formbox form .agree_box label {
   width: 100%;
