@@ -1035,6 +1035,9 @@
                     box-sizing: border-box;
                     span{
                         word-break: inherit!important;
+                        height:200px;
+                        overflow-y:scroll;
+                        display:block;
                     }
                 }
                 label{
