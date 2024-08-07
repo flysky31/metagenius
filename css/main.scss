@@ -58,7 +58,7 @@
 }
 
 #deps01{
-    background: url("/img/main_visual.jpg")no-repeat;
+    background: url("../img/main_visual.jpg")no-repeat;
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -107,7 +107,7 @@
         .swiper-button-prev:after, 
         .swiper-rtl .swiper-button-next:after{
             content:"";
-            background: url("/img/arrow_prev.png")no-repeat;
+            background: url("../img/arrow_prev.png")no-repeat;
             background-size: 42px 80px;
             background-position: top center;
             width: 42px;
@@ -116,7 +116,7 @@
         .swiper-button-next:after, 
         .swiper-rtl .swiper-button-prev:after{
             content:"";
-            background: url("/img/arrow_next.png")no-repeat;
+            background: url("../img/arrow_next.png")no-repeat;
             background-size: 42px 80px;
             background-position: top center;
             width: 42px;
@@ -198,16 +198,16 @@
                 overflow: hidden;
             }
             .bg01{
-                background: url("/img/slide01.jpg")no-repeat center / cover;
+                background: url("../img/slide01.jpg")no-repeat center / cover;
                 
             }
             .bg02{
-                background: url("/img/slide01.jpg")no-repeat center / cover;
+                background: url("../img/slide01.jpg")no-repeat center / cover;
                 
               
             }
             .bg03{
-                background: url("/img/slide01.jpg")no-repeat center / cover;
+                background: url("../img/slide01.jpg")no-repeat center / cover;
                 
             }
           }
@@ -315,11 +315,11 @@
       }
       
       .first .bg {
-        background-image: url("/img/deps04_bg.jpg");
+        background-image: url("../img/deps04_bg.jpg");
       }
       
       .second .bg {
-        background-image: url("/img/deps04_bg.jpg");
+        background-image: url("../img/deps04_bg.jpg");
       }
       .flex{
         position: absolute;
@@ -353,7 +353,7 @@
                     position: absolute;
                     top: 0;
                     left: 0;
-                    background: url("/img/playicon.png")no-repeat center;
+                    background: url("../img/playicon.png")no-repeat center;
                     z-index: 1;
                     width: 100%;
                     height: 100%;
@@ -363,7 +363,7 @@
                     display: flex;
                     align-items: center;
                     i{
-                        background: url("/img/tube_icon.png")no-repeat center /23px 18px;
+                        background: url("../img/tube_icon.png")no-repeat center /23px 18px;
                         width: 23px;
                         height: 18px;
                         display: inline-block;
@@ -566,7 +566,7 @@
 /* ======================= 768 =============================*/
 @include breakpoint_tablet_768{
     #deps01{
-        background: url("/img/main_visual_m.png")no-repeat;
+        background: url("../img/main_visual_m.png")no-repeat;
         height: 100vh;
         background-size: cover;
         .title_bx{
@@ -592,13 +592,13 @@
                 .bg{    
                     // height: 1034px;
                     &.bg01{
-                        background: url("/img/slide01_m.jpg") no-repeat center/cover;
+                        background: url("../img/slide01_m.jpg") no-repeat center/cover;
                     }
                     &.bg02{
-                        background: url("/img/slide01_m.jpg") no-repeat center/cover;
+                        background: url("../img/slide01_m.jpg") no-repeat center/cover;
                     }
                     &.bg03{
-                        background: url("/img/slide01_m.jpg") no-repeat center/cover;
+                        background: url("../img/slide01_m.jpg") no-repeat center/cover;
                     }
                 }
             }
